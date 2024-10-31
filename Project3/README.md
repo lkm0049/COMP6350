@@ -1,1 +1,1 @@
-
+NOTE: The script in this assignment was designed specifically to locate and extract the files on the Project3.dd disk image, it should <b>NOT</b> be utilized to extract the files specified from another disk image.  The file signatures and methodologies for recovering the files are specific to the nature of this specific disk image.
